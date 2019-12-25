@@ -1,4 +1,5 @@
-<b>Final Project<b>
+# Final Project
+  
 As a music lover, I am a fan of Vietnamese music in its so-called “golden age” between 1945 and 1975. During this era, three musicians - Pham Dinh Chuong, Trinh Cong Son, Lam Phuong - stood out as some of the most influential figures in the Vietnamese music industry thanks to their immensely popular compositions. By obtaining information about the songs written by these musicians, I aim to answer the following Humanities questions: 
   1. What is the most productive period of the musicians' song-writing career in the golden days of Vietnamese music?
   2. Were there any changes in the topics of the songs written in their prime period compared to those written in the beginning stage of their career?
