@@ -59,4 +59,6 @@ After processing the data, it would be possible to answer the first research que
 
 **4.2.1 Trinh Cong Son**
 
+Explore the Voyant results at: https://vesper-truong.github.io/vietnamese-musicians/
+
 <iframe style='width: 100%; height: 800px;' src='//voyant-tools.org/?panels=cirrus%2Ctermsberry%2Cdocumentterms%2Cdocuments%2Cbubblelines&corpus=2f5ac301629fc13db0fd52f88b46753f'></iframe>
