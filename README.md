@@ -23,7 +23,7 @@ First of all, I imported the pandas library, which would allow me to open and wo
   import re
   data = pd.read_csv("song_data.csv", low_memory=False)
   ```
-To quickly count the number of songs written by all the musicians, I used this line of code:
+To quickly count the number of songs written by all the musicians, I used the value_counts() method:
   ```
   data['writer'].value_counts()
   ```
@@ -36,10 +36,16 @@ Using a similar line of code, I was able to obtain information regarding how man
 After running the code, I learned that most songs were written in the period between 1968 and 1969, with 34 songs in total. This accounts for over 20% of all the songs written by the three musicians. With 19 songs each, 1965 and 1972 were also the two years when the musicians were very productive.
 
 Next, in order to study each musician, I opened the CSV file for Trinh Cong Son, Lam Phuong, and Pham Dinh Chuong consecutively.
-```
-tcs_data = pd.read_csv("tcs_song_data.csv", low_memory=False)
-lp_data = pd.read_csv("lam_phuong_song_data.csv", low_memory=False)
-pdc_data = pd.read_csv("pdc_song_data.csv", low_memory=False)
-```
+  ```
+  tcs_data = pd.read_csv("tcs_song_data.csv", low_memory=False)
+  lp_data = pd.read_csv("lam_phuong_song_data.csv", low_memory=False)
+  pdc_data = pd.read_csv("pdc_song_data.csv", low_memory=False)
+  ```
+Again, with the value_counts() method, it was possible to see how many songs were written by each musician in a particular year.
+  ```
+  tcs_data['year'].value_counts()
+  lp_data['year'].value_counts()
+  pdc_data['year'].value_counts()
+  ```
 
 After identifying their most productive periods, I will search for the lyrics of the songs written in those periods and in the beginning stage of their career. Then, I will combine the results of my search into two Microsoft Word documents for each musician. One document will be used to store the lyrics of the songs written in the most productive period and the other for the beginning period. Next, I will process the documents with Voyant so that I can see the topics in the songs. Finally, I will make comparisons of the topics based on Voyant's results.
