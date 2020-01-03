@@ -65,10 +65,22 @@ It is possible to explore the Voyant results at: https://vesper-truong.github.io
 
 **4.2.1 Trinh Cong Son**
 
-Below are the results of the topics in Trinh Cong Son's most productive period from 1968 to 1972:
+Below are the results of the topics in the songs in Trinh Cong Son's most productive period from 1968 to 1972:
 
 <iframe style='width: 100%; height: 800px;' src='//voyant-tools.org/?panels=cirrus%2Creader%2Ctrends%2Csummary%2Ccontexts&corpus=3b97135efa669b687e9c13171ff3e4e5'></iframe>
 
 The corpus has 45 documents, each of which contains the lyrics of a song written in the period between 1968 and 1972. As it was not possible to identify the main topic in Trinh Cong Son's songs just by looking at the most freqently used words in the corpus, I decided to study the distintive words in the documents (compared to the rest of the corpus). Because in Vietnamese, a meaningful word can be made up of two separate words (e.g. tuổi trẻ (youth) is made up of two separate words 'tuổi' and 'trẻ'), there is a need to use the *Contexts tool* on Voyant Tools to see the words in their contexts. By doing so, it would be possible to see the correct distinctive words. The top distinctive words are: chết (dead/death), sống (live), đường (way), đồng bào (compatriot), tuổi trẻ (youth), Việt Nam, tình (love), máu (blood), hoà bình (peace), dân (people), quê hương (hometown), xác (corpse), cờ (flag), ngày mai (tomorrow). The top distinctive words are: chết (dead/death), sống (live), đường (way), đồng bào (compatriot), tuổi trẻ (youth), Việt Nam, tình (love), máu (blood), hoà bình (peace), dân (people), quê hương (hometown), xác (corpse), cờ (flag), ngày mai (tomorrow). These words indicate that the main topics in Trinh Cong Son's songs written in the period between 1968 and 1972 were patriotism, fighting for peace, life and death.
 
-Compared to
+Below are the results of the topics in Trinh Cong Son's songs in the period from 1958 to 1962:
+
+<iframe style='width: 100%; height: 800px;' src='//voyant-tools.org/?panels=cirrus%2Creader%2Ctrends%2Csummary%2Ccontexts&corpus=c5dcff834ae319a7580a94dc3089c0f1'></iframe>
+
+Compared to the songs written in the musician's most productive period, those written in the five-year period from 1958 to 1962 (there is no information about any song written before this) seem to revolve around the topic of love and missing. This is deduced from the most frequent words in the corpus. From 1958 to 1962, Trinh Cong Son tended to use words such as mưa (rain), nhớ (miss), đêm (night), buồn (sad), thương (love), and especially the pronoun *em* which is often used to dearly address a younger person in Vietnamese.
+
+Clearly, there was a distinct shift in topics in Trinh Cong Son's songs in the period from 1958 to 1962 and his most productive period.
+
+**4.2.2 Lam Phuong**
+
+Below are the results of the topics in the songs in Lam Phuong's most productive period from 1956 to 1960:
+
+
