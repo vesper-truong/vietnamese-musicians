@@ -47,8 +47,15 @@ Again, with the value_counts() method, it was possible to see how many songs wer
   lp_data['year'].value_counts()
   pdc_data['year'].value_counts()
   ```
-After this step, it was finally possible to see which were the years in which Trinh Cong Son, Lam Phuong, and Pham Dinh Chuong were most productive in their song-writing profession. Having identified their most productive periods, I then searched for the lyrics of the songs written in those periods and in the beginning stage of their career. Next, I compiled the results of my search into two Microsoft Word documents for each musician. After that, I processed the documents using Voyant tools so that I could see the topics in the songs. Finally, I made comparisons of the topics based on Voyant's results.
+After this step, it was finally possible to see which were the years in which Trinh Cong Son, Lam Phuong, and Pham Dinh Chuong were most productive in their song-writing profession. Having identified their most productive periods, I then searched for the lyrics of the songs written in those periods and in the beginning stage of their career. The lyrics were obtained from [(lyrics.vn)]. Next, I compiled the results of my search into two Microsoft Word documents for each musician. After that, I processed the documents using Voyant tools so that I could see the topics in the songs. Finally, I made comparisons of the topics based on Voyant's results.
 
 **4. Analysis**
-Apparently, Trinh Cong Son was most productive in the five-year period between 1968 and 1972. He wrote 45 songs, with 18 produced in 1972 alone. This means that almost one-fifth of his songs were composed in 1972. Statistically, his peak in song-writing productivity began at the age of 29. As for Lam Phuong, his most productive period was between 1956 and 1960, during which 19 songs were written. 1957 marked the most productive year for Lam Phuong with 7 songs produced. Compared to Trinh Cong Son, Lam Phuong reached the high of his productivity at a much younger age - at only 19 years old. Regarding Pham Dinh Chuong, no period was especially remarkable in terms of song-writing. Nevertheless, it can be seen that there is a period of regular song production from 1952 to 1957, during which he wrote two to three songs each year (with the exception of 1955). Pham Dinh Chuong was only a 23-year-old man in 1952.   
+
+**4.1 The most productive periods**
+
+After processing the data, it would be possible to answer the first research question: what is the most productive period of the musicians' song-writing career in the golden days of Vietnamese music from 1945 to 1975?. Apparently, Trinh Cong Son was most productive in the five-year period between 1968 and 1972, during which he wrote 45 songs. Almost one-fifth of his songs were composed in 1972. Statistically, his peak in song-writing productivity began at the age of 29. As for Lam Phuong, his most productive period was between 1956 and 1960, during which 19 songs were written. 1957 marked the most productive year for Lam Phuong with 7 songs produced. Compared to Trinh Cong Son, Lam Phuong reached the high of his productivity at a much younger age - at only 19 years old. Regarding Pham Dinh Chuong, no period was especially remarkable in terms of song-writing. Nevertheless, it can be seen that there is a period of regular song production from 1952 to 1957, during which he wrote two to three songs each year (with the exception of 1955). Pham Dinh Chuong was only a 23-year-old man in 1952.   
+
+**4.2 Comparison of song topics**
+
+**4.2.1 Trinh Cong Son**
 
