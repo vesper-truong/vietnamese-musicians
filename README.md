@@ -4,7 +4,7 @@
 
 As a music lover, I am a fan of Vietnamese music in its so-called “golden age” between 1945 and 1975. During this era, three musicians - Trinh Cong Son (1939-2001), Lam Phuong (born 1937), and Pham Dinh Chuong (1929-1991) - stood out as some of the most influential figures in the Vietnamese music industry thanks to their immensely popular compositions. By obtaining information about the songs written by these musicians, I aim to answer the following Humanities questions: 
   1. What is the most productive period of the musicians' song-writing career in the golden days of Vietnamese music from 1945 to 1975?
-  2. Between 1945 and 1975, were there any changes in the topics of the songs written in their most productive period compared to those written in the periods before and after that?
+  2. Between 1945 and 1975, were there any changes in the topics of the songs written in their most productive period compared to those written in the period before that?
   
 Besides the two main questions, I also have a hypothesis that their most productive period commenced around 1956, which is the year when Sai Gon (now Ho Chi Minh City) welcomed an influx of migrants from the North of Vietnam. Among those migrants were elite artists and middle-class people who contributed to the diverse picture of the art and entertainment industry in the South of Vietnam. Hypothetically, I believe that the newcomers from the North created a higher demand for entertainment products in general and music in particular. There is also a chance that the Northern elite artists encouraged the dissemination of the culture of listening to music. If the results of my research indicate that the most productive period of the three musicians correlated with this great migration of Northern Vietnamese people, it will be interesting to do a network analysis to study about the connections between musicians, artists, singers, intellectuals, record companies, music bar owners, and middle and upper-class people in Sai Gon around the year 1956. Doing so would hopefully result in a better understanding of the cultural life in Sai Gon before Vietnam gained its independence from the U.S.A in 1975.
 
@@ -47,7 +47,7 @@ Again, with the value_counts() method, it was possible to see how many songs wer
   lp_data['year'].value_counts()
   pdc_data['year'].value_counts()
   ```
-After this step, it was finally possible to see which were the years in which Trinh Cong Son, Lam Phuong, and Pham Dinh Chuong were most productive in their song-writing profession. Having identified their most productive periods, I then searched for the lyrics of the songs written in those periods and in the beginning stage of their career. The lyrics were obtained from [(lyrics.vn)]. Next, I compiled the results of my search into two Microsoft Word documents for each musician. After that, I processed the documents using Voyant tools so that I could see the topics in the songs. Finally, I made comparisons of the topics based on Voyant's results.
+After this step, it was finally possible to see which were the years in which Trinh Cong Son, Lam Phuong, and Pham Dinh Chuong were most productive in their song-writing profession. Having identified their most productive periods, I then searched for the lyrics of the songs written in those periods and in the earlier stage of their career. The lyrics were obtained from [(lyrics.vn)]. Next, I compiled the results of my search into plain text documents for each musician. After that, I processed the documents using Voyant Tools (available at https://voyant-tools.org) so that I could see the topics in the songs. Finally, I made comparisons of the topics based on Voyant's results.
 
 **4. Analysis**
 
@@ -57,8 +57,16 @@ After processing the data, it would be possible to answer the first research que
 
 **4.2 Comparison of song topics**
 
+In this project, I used Voyant Tools to answer the second research question: Between 1945 and 1975, were there any changes in the topics of the songs written in their most productive period compared to those written in the period before that?
+
+With the help of Voyant Tools, I could use the visualization tools and corpus tools to get an understanding of the topics of the songs. 
+
+It is possible to explore the Voyant results at: https://vesper-truong.github.io/vietnamese-musicians/
+
 **4.2.1 Trinh Cong Son**
 
-Explore the Voyant results at: https://vesper-truong.github.io/vietnamese-musicians/
+Below are the results of the topics in Trinh Cong Son's most productive period from 1968 to 1972:
 
-<iframe style='width: 100%; height: 800px;' src='//voyant-tools.org/?panels=cirrus%2Ctermsberry%2Cdocumentterms%2Cdocuments%2Cbubblelines&corpus=2f5ac301629fc13db0fd52f88b46753f'></iframe>
+<iframe style='width: 100%; height: 800px;' src='//voyant-tools.org/?panels=cirrus%2Creader%2Ctrends%2Csummary%2Ccontexts&corpus=3b97135efa669b687e9c13171ff3e4e5'></iframe>
+
+The corpus has 45 documents, each of which contains the lyrics of a song written in the period between 1968 and 1972. As it was not possible to identify the main topic in Trinh Cong Son's songs just by looking at the most freqently used words in the corpus, I decided to study the distintive words in the documents (compared to the rest of the corpus). Because in Vietnamese, a meaningful word can be made up of two separate words (e.g. tuổi trẻ (youth) is made up of two separate words 'tuổi' and 'trẻ'), there is a need to use the *Contexts tool* on Voyant Tools to see the words in their contexts. By doing so, it would be possible to see the correct distinctive words. The top distinctive words are: chết (dead/death), sống (live), đường (way), đồng bào (compatriot), tuổi trẻ (youth), Việt Nam, tình (love), máu (blood), hoà bình (peace), dân (people), quê hương (hometown), xác (corpse), cờ (flag), ngày mai (tomorrow). The top distinctive words are: chết (dead/death), sống (live), đường (way), đồng bào (compatriot), tuổi trẻ (youth), Việt Nam, tình (love), máu (blood), hoà bình (peace), dân (people), quê hương (hometown), xác (corpse), cờ (flag), ngày mai (tomorrow). These words
