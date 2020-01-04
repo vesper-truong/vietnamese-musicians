@@ -66,23 +66,23 @@ It is possible to explore the Voyant results at: https://vesper-truong.github.io
 
 **4.2.1 Trinh Cong Son**
 
-Below are the results of the topics in the songs in Trinh Cong Son's most productive period from 1968 to 1972:
+Below are the results of the topics in the songs in Trinh Cong Son's most productive period from 1968 to 1972. The 45 songs written in this period account for over 60% of all the songs Trinh Cong Son wrote in the whole twenty-year period of Vietnamese music industry's golden age (from 1945 to 1975):
 
 <iframe style='width: 100%; height: 800px;' src='//voyant-tools.org/?panels=cirrus%2Creader%2Ctrends%2Csummary%2Ccontexts&corpus=3b97135efa669b687e9c13171ff3e4e5'></iframe>
 
 The corpus has 45 documents, each of which contains the lyrics of a song written in the period between 1968 and 1972. As it was not possible to identify the main topic in Trinh Cong Son's songs just by looking at the most frequently used words in the corpus, I decided to study the distinctive words in the documents (compared to the rest of the corpus). Because in Vietnamese, a meaningful word can be made up of two separate words (e.g. tuổi trẻ (youth) is made up of two separate words 'tuổi' and 'trẻ'), there is a need to use the *Contexts tool* on Voyant Tools to see the words in their contexts. By doing so, it would be possible to see the correct distinctive words. The top distinctive words are: chết (dead/death), sống (live), đường (way), đồng bào (compatriot), tuổi trẻ (youth), Việt Nam, tình (love), máu (blood), hoà bình (peace), dân (people), quê hương (hometown), xác (corpse), cờ (flag), ngày mai (tomorrow). The top distinctive words are: chết (dead/death), sống (live), đường (way), đồng bào (compatriot), tuổi trẻ (youth), Việt Nam, tình (love), máu (blood), hoà bình (peace), dân (people), quê hương (hometown), xác (corpse), cờ (flag), ngày mai (tomorrow). These words indicate that the main topics in Trinh Cong Son's songs written in the period between 1968 and 1972 were patriotism, fighting for peace, life and death.
 
-Below are the results of the topics in Trinh Cong Son's songs in the period from 1958 to 1962:
+I decided to compared Trinh Cong Son’s songs in his prime time with those written in the five-year period from 1958 to 1962 as there is no information about any song written before 1958. Another reason is that I wanted to match the length of the most productive period with that of the earlier stage of his career for better comparison. Below are the results of the topics in Trinh Cong Son's songs in the period from 1958 to 1962:
 
 <iframe style='width: 100%; height: 800px;' src='//voyant-tools.org/?panels=cirrus%2Creader%2Ctrends%2Csummary%2Ccontexts&corpus=c5dcff834ae319a7580a94dc3089c0f1'></iframe>
 
-Compared to the songs written in the musician's most productive period, those written in the five-year period from 1958 to 1962 (there is no information about any song written before this) seem to revolve around the topic of love and missing. This is deduced from the most frequent words in the corpus. From 1958 to 1962, Trinh Cong Son tended to use words such as mưa (rain), nhớ (miss), đêm (night), buồn (sad), thương (love), and especially the pronoun *em* which is often used to dearly address a younger person in Vietnamese.
+Compared to the songs written in the musician's most productive period, those written in the five-year period from 1958 to 1962 seem to revolve around the topic of love and missing. This is deduced from the most frequent words in the corpus. From 1958 to 1962, Trinh Cong Son tended to use words such as mưa (rain), nhớ (miss), đêm (night), buồn (sad), thương (love), and especially the pronoun *em* which is often used to dearly address a younger person in Vietnamese.
 
-Clearly, there was a distinct shift in topics in Trinh Cong Son's songs in the period from 1958 to 1962 and his most productive period.
+Clearly, there was a distinct shift in topics in Trinh Cong Son's songs in the period from 1958 to 1962 compared to his most productive period.
 
 **4.2.2 Lam Phuong**
 
-Below are the results of the topics in the songs in Lam Phuong's most productive period from 1956 to 1960. Four songs were not included in the corpus as it was impossible to find their lyrics. Despite this loss, the results are expected to be just slightly affected:
+Below are the results of the topics in the songs in Lam Phuong's most productive period from 1956 to 1960. During this period, the musician wrote 19 songs, which constitute approximately two-fifths of all the songs written by Lam Phuong (in the context of this study). Four songs were not included in the corpus as it was impossible to find their lyrics. Despite this loss, the results are expected to be affected at a very slight degree:
 
 <iframe style='width: 100%; height: 800px;' src='//voyant-tools.org/?panels=cirrus%2Creader%2Ctrends%2Csummary%2Ccontexts&corpus=6543956fe6d9adf7de31ebaccc4e5f3c'></iframe>
 
@@ -92,19 +92,19 @@ Below are the results of the topics in Lam Phuong's songs in the period from 195
 
 <iframe style='width: 100%; height: 800px;' src='//voyant-tools.org/?panels=cirrus%2Creader%2Ctrends%2Csummary%2Ccontexts&corpus=83a4abf5e5a622b801be7173db3c7403'></iframe>
 
-A look at the most frequent and distinctive words lead me to notice that there are several nouns such as trăng (moon), lúa (rice plants), tình (love), tiếng (sounds), sông (river), rừng (forest), lửa (fire), thu (autumn). It is possible to suspect that the topics in this period circle around the nature and the Vietnamese countryside.
+A look at the most frequent and distinctive words lead me to notice that there are several nouns such as trăng (moon), lúa (rice plants), tình (love), tiếng (sounds), sông (river), rừng (forest), lửa (fire), thu (autumn). Based on these words, it is possible to suspect that the topics in Lam Phuong's songs in this period circle around the nature and the Vietnamese countryside.
 
-Without the presence of negativity-inducing words (e.g. rain, winter), it appears that the topics in Lam Phuong's beginning stage of his career were more optimistic.
+In comparison, without the presence of negativity-inducing words (e.g. rain, winter), it appears that the topics in Lam Phuong's beginning stage of his career were more optimistic.
 
 **4.2.3 Pham Dinh Chuong**
 
-Regarding Pham Dinh Chuong, I examined the songs written in his supposedly most productive period from 1952 to 1957, which was also the period when he regularly produced songs. Then, I compared the topics of the songs in this period with those of the songs written between 1946 and 1951. One major problem with this musician is that there was no lyric found for 8 out of 22 songs studied. This accounts for almost one-third of the songs, which means the results are heavily affected. Nevertheless, it is still possible to load the corpus via Voyant Tools. Below are the results for the 1952-1957 period:
+Regarding Pham Dinh Chuong, I examined the songs written in his supposedly most productive period from 1952 to 1957, which was also the period when he regularly produced songs as stated above. Then, I compared the topics of the songs in this period with those of the songs written between 1946 and 1951. One major problem with this musician is that there was no lyric found for 8 out of 22 songs studied. This accounts for almost one-third of the songs, which means the results are heavily affected. Nevertheless, it is still possible to load the corpus via Voyant Tools. Below are the results for the 1952-1957 period:
 
 <iframe style='width: 100%; height: 800px;' src='//voyant-tools.org/?panels=cirrus%2Creader%2Ctrends%2Csummary%2Ccontexts&corpus=26c5842992482ecb938a0bba239728fd'></iframe>
 
 It can be seen that two exclamatory words *hò* and *dô* were frequently used in the songs in this period. These two words are often used to give people motivation among Vietnamese laborers. Lúa (rice plants), sông (river), and xuân (spring) are also among the top ten most frequent words (excluding pronouns). It can be inferred that the common topics in this period are about the joy of labor and celebrating spring time. Nevertheless, this should not be regarded as a definite conclusion as there is a lack of data as explained above.
 
-Below are the results of the topics in Pham Dinh Chuong's songs in the period from 1946 to 1951:
+Among the three musicians, Pham Dinh Chuong appeared to have started his song-writing career at the earliest time. Pham Dinh Chuong was among the first pioneers of Vietnamese music in its golden age from 1945 to 1975. His first documented song was composed in 1946. This is probably due to the fact that he was born in 1929, which created a huge age gap between him and the other two musicians. Below are the results of the topics in Pham Dinh Chuong's songs in the period from 1946 to 1951:
 
 <iframe style='width: 100%; height: 800px;' src='//voyant-tools.org/?panels=cirrus%2Creader%2Ctrends%2Csummary%2Ccontexts&corpus=186b7d8ff3e7ed294f0d869a30578e47'></iframe>
 
