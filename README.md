@@ -122,8 +122,14 @@ First of all, the results of the analysis indicate that my hypothesis may not be
 
 **6. Limitations**
 
+Compared to the first draft of this project, I have made some significant changes both actively and compulsorily. Due to my inexperience with OpenRefine, I had to manually collect the necessary data from the wiki pages. Fortunately, doing so enabled me to adopt a different approach with which I am more familiar - Python. Thanks to Python, I was able to promptly analyze the data and extract the information I need from  my manually created CSV files. I also decided against using TimeGraphics (available at https://time.graphics/) for visualizations. Instead, I chose RAW, which is a tool presented in one of the in-class meetings. Limited though my experience with RAW is, I was still able to make use of the tool according to my need. I applied RAW to the CSV file of each musician consecutively, not to the complete *song_data.csv* because it appears to me that including too many variables will just make the visualization messy and that will prevent researchers to make sense of the graph. Voyant Tools was, to some extent, useful for getting a good understanding of the corpora. However, it seems to only offer a surface-level view, which makes it difficult for me to deduce the topics of the songs. Consequently, I had to refer to various tools offered by Voyant Tools before I could make a decision on the possible topics. Nevertheless, I cannot claim that I am completely certain about my conclusions. It would be beneficial if there were a tool to evaluate the probability. I wonder about the possibility of using a scale of certainty similar to the one developed in the Cinema Parisien 3D project (Noordegraaf, Opgenhaffen, and Bakker 2016, p. 53). The biggest issue in this project, however, is the datasource itself. Due to my lack of access to a better, more reliable datasource, I had to resort to using Wikipedia. Although wiki pages are conveniently accessible, their contents are not yet complete and they are always subject to changes. After my preliminary search, I found three wiki pages from which I could obtain a dataset. Acknowledging the fact that my dataset is quite small in size, I made efforts to add more variables to it. Nonetheless, there is still a dire need for a better, more detailed dataset.
 
 **7. Conclusion**
 
+In this project, I 
+
+**References**
+
+Noordegraaf, J., Opgenhaffen, L. & Bakker, N. 2016. Cinema Parisien 3D: 3D visualisation as a tool for the history of cinemagoing. *Alphaville, 11*, pp. 45-61.
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
