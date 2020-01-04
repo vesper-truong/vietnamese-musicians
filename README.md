@@ -126,7 +126,7 @@ Compared to the first draft of this project, I have made some significant change
 
 **7. Conclusion**
 
-In this project, I 
+This project was a practical experience for me to learn about and truly understand some important issues in Digital Humanities. I have learned that the datasource is of great importance because it influences not only the research question but also the tools used in the research. I have familiarized myself more with computational tools for doing humanities studies. This project also gave me the opportunity to learn more about open, reproducible research - a relatively new concept to me as a student. Most importantly, my struggle with OpenRefine reminded me of the need for collaboration in Digital Humanities. Now, I truly understand why multidisciplinary collaboration is considered one of the backbones of Digital Humanities. Some limitations of my research originate from my lack of programming knowledge, which could be compensated thanks to the help of a fellow researcher who specializes in computer science. Despite some drawbacks, this research is expected to be a good source of reference for those interested in similar research questions.
 
 **References**
 
