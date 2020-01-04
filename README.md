@@ -20,7 +20,6 @@ Originally, my intention was to use OpenRefine to extract the necessary informat
 First of all, I imported the pandas library, which would allow me to open and work with the CSV files I created previously. The codes are as followed:
   ```
   import pandas as pd
-  import re
   data = pd.read_csv("song_data.csv", low_memory=False)
   ```
 To quickly count the number of songs written by all the musicians, I used the value_counts() method:
@@ -47,7 +46,9 @@ Again, with the value_counts() method, it was possible to see how many songs wer
   lp_data['year'].value_counts()
   pdc_data['year'].value_counts()
   ```
-After this step, it was finally possible to see which were the years in which Trinh Cong Son, Lam Phuong, and Pham Dinh Chuong were most productive in their song-writing profession. Having identified their most productive periods, I then searched for the lyrics of the songs written in those periods and in the earlier stage of their career. The lyrics were obtained from [(lyrics.vn)]. Next, I compiled the results of my search into plain text documents for each musician. After that, I processed the documents using Voyant Tools (available at https://voyant-tools.org) so that I could see the topics in the songs. Finally, I made comparisons of the topics based on Voyant's results.
+After this step, it was finally possible to see which were the years in which Trinh Cong Son, Lam Phuong, and Pham Dinh Chuong were most productive in their song-writing profession. With the CSV files I created, I was also able to use RAW to visualize the data so that I could understand it better. The results of the RAW visualization process can be found in the ***visualization_RAW*** folder in this respository.
+
+Having identified their most productive periods, I then searched for the lyrics of the songs written in those periods and in the earlier stage of their career. The lyrics were obtained from [(lyrics.vn)]. Next, I compiled the results of my search into plain text documents for each musician. After that, I processed the documents using Voyant Tools (available at https://voyant-tools.org) so that I could see the topics in the songs. Finally, I made comparisons of the topics based on Voyant's results.
 
 **4. Analysis**
 
@@ -97,5 +98,18 @@ Without the presence of negativivity-inducing words (e.g. rain, winter), it appe
 
 **4.2.3 Pham Dinh Chuong**
 
+Regarding Pham Dinh Chuong, I examined the songs written in his supposedly most productive period from 1952 to 1957, which was also the period when he regularly produced songs. Then, I compared the topics of the songs in this period with those of the songs written between 1946 and 1951. One major problem with this musician is that there was no lyric found for 8 out of 22 songs studied. This accounts for almost one-third of the songs, which means the results are heavily affected. Nevertheless, it is still possible to load the corpus via Voyant Tools. Below are the results for the 1952-1957 period:
 
+<iframe style='width: 100%; height: 800px;' src='//voyant-tools.org/?panels=cirrus%2Creader%2Ctrends%2Csummary%2Ccontexts&corpus=26c5842992482ecb938a0bba239728fd'></iframe>
 
+It can be seen that two exclamatory words *hò* and *dô* were frequently used in the songs in this period. These two words are often used to give people motivation among Vietnamese laborers. Lúa (rice plants), sông (river), and xuân (spring) are also among the top ten most frequent words (excluding pronouns). It can be inferred that the common topics in this period are about the joy of labor and celebrating spring time. Nevertheless, this should not be regarded as a definite conclusion as there is a lack of data as explained above.
+
+Below are the results of the topics in Pham Dinh Chuong's songs in the period from 1946 to 1951:
+
+<iframe style='width: 100%; height: 800px;' src='//voyant-tools.org/?panels=cirrus%2Creader%2Ctrends%2Csummary%2Ccontexts&corpus=186b7d8ff3e7ed294f0d869a30578e47'></iframe>
+
+With only 4 songs in the corpus, it is difficult to deduce the topics of Pham Dinh Chuong's songs in this period. The most noticeable and meaningful word in the most frequent word list is tình (love), which surprisingly is not a frequently used word in the songs written between 1952 and 1957.
+
+**Discussion**
+
+First of all, the results of the analysis indicate that my hypothesis may not be correct as their most productive periods did not happen around the year 1956. Rather, the results suggest that I should hypothesize that the musicians' most productive periods began after the year 1956 when there were remarkable changes in the population of well-cultured people in the South of Viet Nam. Second, among the three musicians, Trinh Cong Son reached his most productive period at the latest age, at 29 compared to 19 (Lam Phuong) and 23 (Pham Dinh Chuong); however, the total number of songs he wrote in his prime time equals over half of the songs written by both Lam Phuong and Pham Dinh Chuong combined. Third, the most significant and noticeable change in topics was also evident in Trinh Cong Son's songs. While Lam Phuong's songs seemed to become less optimistic as he progressed in his career, it was difficult to identify any remarkable shift in Pham Dinh Chuong's song topics.
