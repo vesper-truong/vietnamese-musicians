@@ -6,7 +6,7 @@ As a music lover, I am a fan of Vietnamese music in its so-called “golden age�
   1. What is the most productive period of the musicians' song-writing career in the golden days of Vietnamese music from 1945 to 1975?
   2. Between 1945 and 1975, were there any changes in the topics of the songs written in their most productive period compared to those written in the period before that?
   
-Besides the two main questions, I also have a hypothesis that their most productive period commenced around 1956, which is the year when Sai Gon (now Ho Chi Minh City) welcomed an influx of migrants from the North of Vietnam. Among those migrants were elite artists and middle-class people who contributed to the diverse picture of the art and entertainment industry in the South of Vietnam. Hypothetically, I believe that the newcomers from the North created a higher demand for entertainment products in general and music in particular. There is also a chance that the Northern elite artists encouraged the dissemination of the culture of listening to music. If the results of my research indicate that the most productive period of the three musicians correlated with this great migration of Northern Vietnamese people, it will be interesting to do a network analysis to study about the connections between musicians, artists, singers, intellectuals, record companies, music bar owners, and middle and upper-class people in Sai Gon around the year 1956. Doing so would hopefully result in a better understanding of the cultural life in Sai Gon before Vietnam gained its independence from the U.S.A in 1975.
+Besides the two main questions, I also have a hypothesis that their most productive period commenced around 1956, which is the year when Sai Gon (now Ho Chi Minh City) welcomed an influx of migrants from the North of Vietnam. Among those migrants were elite artists and middle-class people who contributed to the diverse picture of the art and entertainment industry in the South of Vietnam. Hypothetically, I believe that the newcomers from the North created a higher demand for entertainment products in general and music in particular. There is also a chance that the Northern elite artists encouraged the dissemination of the culture of listening to music. If the results of my research indicate that the most productive period of the three musicians correlated with this great migration of Northern Vietnamese people, it will be interesting to do a network analysis to study about the connections between musicians, artists, singers, intellectuals, record companies, music bar owners, and middle and upper-class people in Sai Gon around the year 1956. Doing so would hopefully result in a better understanding of the cultural life in Sai Gon before Vietnam defeated the US Army to unite its northen and southern parts in 1975.
 
 **2. Data collection**
 
@@ -70,11 +70,13 @@ Below are the results of the topics in the songs in Trinh Cong Son's most produc
 
 <iframe style='width: 100%; height: 800px;' src='//voyant-tools.org/?panels=cirrus%2Creader%2Ctrends%2Csummary%2Ccontexts&corpus=3b97135efa669b687e9c13171ff3e4e5'></iframe>
 
+
 The corpus has 45 documents, each of which contains the lyrics of a song written in the period between 1968 and 1972. As it was not possible to identify the main topic in Trinh Cong Son's songs just by looking at the most frequently used words in the corpus, I decided to study the distinctive words in the documents (compared to the rest of the corpus). Because in Vietnamese, a meaningful word can be made up of two separate words (e.g. tuổi trẻ (youth) is made up of two separate words 'tuổi' and 'trẻ'), there is a need to use the *Contexts tool* on Voyant Tools to see the words in their contexts. By doing so, it would be possible to see the correct distinctive words. The top distinctive words are: chết (dead/death), sống (live), đường (way), đồng bào (compatriot), tuổi trẻ (youth), Việt Nam, tình (love), máu (blood), hoà bình (peace), dân (people), quê hương (hometown), xác (corpse), cờ (flag), ngày mai (tomorrow). The top distinctive words are: chết (dead/death), sống (live), đường (way), đồng bào (compatriot), tuổi trẻ (youth), Việt Nam, tình (love), máu (blood), hoà bình (peace), dân (people), quê hương (hometown), xác (corpse), cờ (flag), ngày mai (tomorrow). These words indicate that the main topics in Trinh Cong Son's songs written in the period between 1968 and 1972 were patriotism, fighting for peace, life and death.
 
 I decided to compared Trinh Cong Son’s songs in his prime time with those written in the five-year period from 1958 to 1962 as there is no information about any song written before 1958. Another reason is that I wanted to match the length of the most productive period with that of the earlier stage of his career for better comparison. Below are the results of the topics in Trinh Cong Son's songs in the period from 1958 to 1962:
 
 <iframe style='width: 100%; height: 800px;' src='//voyant-tools.org/?panels=cirrus%2Creader%2Ctrends%2Csummary%2Ccontexts&corpus=c5dcff834ae319a7580a94dc3089c0f1'></iframe>
+
 
 Compared to the songs written in the musician's most productive period, those written in the five-year period from 1958 to 1962 seem to revolve around the topic of love and missing. This is deduced from the most frequent words in the corpus. From 1958 to 1962, Trinh Cong Son tended to use words such as mưa (rain), nhớ (miss), đêm (night), buồn (sad), thương (love), and especially the pronoun *em* which is often used to dearly address a younger person in Vietnamese.
 
@@ -86,11 +88,13 @@ Below are the results of the topics in the songs in Lam Phuong's most productive
 
 <iframe style='width: 100%; height: 800px;' src='//voyant-tools.org/?panels=cirrus%2Creader%2Ctrends%2Csummary%2Ccontexts&corpus=6543956fe6d9adf7de31ebaccc4e5f3c'></iframe>
 
+
 Once again, I used a combination of tools offered by Voyant Tools such as *Summary* and *Contexts* to grasp a picture of the topics in Lam Phuong songs written in his most productive period. The top five frequent words (excluding pronouns) are: ơi (an exclamatory word in Vietnamese), đêm (night), về (go back), tình (love), lòng (equivalent to *heart*). Some of the top distinctive words are: đông (winter), nhớ (miss), mưa (rain), quê (hometown). Although the context of the words are not clear, it can be inferred that the topics in Lam Phuong's songs in this period were about sad longing feelings.
 
 Below are the results of the topics in Lam Phuong's songs in the period from 1952 to 1954 - the beginning of his song-writing career. Unfortunately, it was also impossible to find the lyrics to one song in this period, but this would probably have very little effect on the results:
 
 <iframe style='width: 100%; height: 800px;' src='//voyant-tools.org/?panels=cirrus%2Creader%2Ctrends%2Csummary%2Ccontexts&corpus=83a4abf5e5a622b801be7173db3c7403'></iframe>
+
 
 A look at the most frequent and distinctive words lead me to notice that there are several nouns such as trăng (moon), lúa (rice plants), tình (love), tiếng (sounds), sông (river), rừng (forest), lửa (fire), thu (autumn). Based on these words, it is possible to suspect that the topics in Lam Phuong's songs in this period circle around the nature and the Vietnamese countryside.
 
@@ -102,19 +106,22 @@ Regarding Pham Dinh Chuong, I examined the songs written in his supposedly most 
 
 <iframe style='width: 100%; height: 800px;' src='//voyant-tools.org/?panels=cirrus%2Creader%2Ctrends%2Csummary%2Ccontexts&corpus=26c5842992482ecb938a0bba239728fd'></iframe>
 
+
 It can be seen that two exclamatory words *hò* and *dô* were frequently used in the songs in this period. These two words are often used to give people motivation among Vietnamese laborers. Lúa (rice plants), sông (river), and xuân (spring) are also among the top ten most frequent words (excluding pronouns). It can be inferred that the common topics in this period are about the joy of labor and celebrating spring time. Nevertheless, this should not be regarded as a definite conclusion as there is a lack of data as explained above.
 
 Among the three musicians, Pham Dinh Chuong appeared to have started his song-writing career at the earliest time. Pham Dinh Chuong was among the first pioneers of Vietnamese music in its golden age from 1945 to 1975. His first documented song was composed in 1946. This is probably due to the fact that he was born in 1929, which created a huge age gap between him and the other two musicians. Below are the results of the topics in Pham Dinh Chuong's songs in the period from 1946 to 1951:
 
 <iframe style='width: 100%; height: 800px;' src='//voyant-tools.org/?panels=cirrus%2Creader%2Ctrends%2Csummary%2Ccontexts&corpus=186b7d8ff3e7ed294f0d869a30578e47'></iframe>
 
+
 With only 4 songs in the corpus, it is difficult to deduce the topics of Pham Dinh Chuong's songs in this period. The most noticeable and meaningful word in the most frequent word list is tình (love), which surprisingly is not a frequently used word in the songs written between 1952 and 1957.
 
 **5. Discussion**
 
-First of all, the results of the analysis indicate that my hypothesis may not be correct as their most productive periods did not happen around the year 1956. Rather, the results suggest that I should hypothesize that the musicians' most productive periods began after the year 1956 when there were remarkable changes in the population of well-cultured people in the South of Viet Nam. Second, among the three musicians, Trinh Cong Son reached his most productive period at the latest age, at 29 compared to 19 (Lam Phuong) and 23 (Pham Dinh Chuong); however, the total number of songs he wrote in his prime time equals over half of the songs written by both Lam Phuong and Pham Dinh Chuong combined. Third, the most significant and noticeable change in topics was also evident in Trinh Cong Son's songs. While Lam Phuong's songs seemed to become less optimistic as he progressed in his career, it was difficult to identify any remarkable shift in Pham Dinh Chuong's song topics.
+First of all, the results of the analysis indicate that my hypothesis may not be correct as their most productive periods did not happen around the year 1956. Rather, the results suggest that I should hypothesize that the musicians' most productive periods began after the year 1956 when there were remarkable changes in the population of well-cultured people in the South of Viet Nam. Second, among the three musicians, Trinh Cong Son reached his most productive period at the latest age, at 29 compared to 19 (Lam Phuong) and 23 (Pham Dinh Chuong); however, the total number of songs he wrote in his prime time equals over half of the songs written by both Lam Phuong and Pham Dinh Chuong combined. Third, the most significant and noticeable change in topics was also evident in Trinh Cong Son's songs. In the beginning of his career, Trinh Cong Son had a tendency to write songs about romantic love and missing, but he switched to writing songs about patriotism, fighting for peace, life and death. This change may be attributed to the historical situations of the South of Viet Nam during that time. For example, 1968 was the year when the General Offensive and Uprising of Tet Mau Than broke out in Sai Gon (now Ho Chi Minh City - the center of the South of Viet Nam). From 1968, the Viet Nam war escalated until Viet Nam earned its victory over the U.S.A in 1975, uniting the North and the South of the country. This may also be an explanation to why Lam Phuong's songs seemed to become less optimistic as he progressed in his career. Finally, it was difficult to identify any remarkable shift in Pham Dinh Chuong's song topics, which implies that there is a dire need for more information and a better datasource. 
 
 **6. Limitations**
+
 
 **7. Conclusion**
 
