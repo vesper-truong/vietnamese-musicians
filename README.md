@@ -110,6 +110,13 @@ Below are the results of the topics in Pham Dinh Chuong's songs in the period fr
 
 With only 4 songs in the corpus, it is difficult to deduce the topics of Pham Dinh Chuong's songs in this period. The most noticeable and meaningful word in the most frequent word list is tình (love), which surprisingly is not a frequently used word in the songs written between 1952 and 1957.
 
-**Discussion**
+**5. Discussion**
 
 First of all, the results of the analysis indicate that my hypothesis may not be correct as their most productive periods did not happen around the year 1956. Rather, the results suggest that I should hypothesize that the musicians' most productive periods began after the year 1956 when there were remarkable changes in the population of well-cultured people in the South of Viet Nam. Second, among the three musicians, Trinh Cong Son reached his most productive period at the latest age, at 29 compared to 19 (Lam Phuong) and 23 (Pham Dinh Chuong); however, the total number of songs he wrote in his prime time equals over half of the songs written by both Lam Phuong and Pham Dinh Chuong combined. Third, the most significant and noticeable change in topics was also evident in Trinh Cong Son's songs. While Lam Phuong's songs seemed to become less optimistic as he progressed in his career, it was difficult to identify any remarkable shift in Pham Dinh Chuong's song topics.
+
+**6. Limitations**
+
+**7. Conclusion**
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
