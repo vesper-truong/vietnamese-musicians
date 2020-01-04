@@ -81,6 +81,21 @@ Clearly, there was a distinct shift in topics in Trinh Cong Son's songs in the p
 
 **4.2.2 Lam Phuong**
 
-Below are the results of the topics in the songs in Lam Phuong's most productive period from 1956 to 1960:
+Below are the results of the topics in the songs in Lam Phuong's most productive period from 1956 to 1960. Four songs were not included in the corpus as it was impossible to find their lyrics. Despite this loss, the results are expected to be just slightly affected:
+
+<iframe style='width: 100%; height: 800px;' src='//voyant-tools.org/?panels=cirrus%2Creader%2Ctrends%2Csummary%2Ccontexts&corpus=6543956fe6d9adf7de31ebaccc4e5f3c'></iframe>
+
+Once again, I used a combination of tools offered by Voyant Tools such as *Summary* and *Contexts* to grasp a picture of the topics in Lam Phuong songs written in his most productive period. The top five frequent words (excluding pronouns) are: ơi (an exclamatory word in Vietnamese), đêm (night), về (go back), tình (love), lòng (equivalent to *heart*). Some of the top distinctive words are: đông (winter), nhớ (miss), mưa (rain), quê (hometown). Although the context of the words are not clear, it can be inferred that the topics in Lam Phuong's songs in this period were about sad longing feelings.
+
+Below are the results of the topics in Lam Phuong's songs in the period from 1952 to 1954 - the beginning of his song-writing career. Unfortunately, it was also impossible to find the lyrics to one song in this period, but this would probably have very little effect on the results:
+
+<iframe style='width: 100%; height: 800px;' src='//voyant-tools.org/?panels=cirrus%2Creader%2Ctrends%2Csummary%2Ccontexts&corpus=83a4abf5e5a622b801be7173db3c7403'></iframe>
+
+A look at the most frequent and distinctive words lead me to notice that there are several nouns such as trăng (moon), lúa (rice plants), tình (love), tiếng (sounds), sông (river), rừng (forest), lửa (fire), thu (autumn). It is possible to suspect that the topics in this period circle around the nature and the Vietnamese countryside.
+
+Without the presence of negativivity-inducing words (e.g. rain, winter), it appears that the topics in Lam Phuong's beginning stage of his career were more optimistic.
+
+**4.2.3 Pham Dinh Chuong**
+
 
 
